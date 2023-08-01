@@ -1,8 +1,10 @@
 <style>
-body {
-  background-image: url('space.jpg');
-}
+  div {
+    opacity: 0.3;
+    background-image: url('space.jpg');
+  }
 </style>
+<div>
 <!-- Title -->
 <h3 align="center">
         <samp> > Hey There!, I am
@@ -73,6 +75,7 @@ body {
         "Happy Coding👨‍💻"
     </p>
 </samp>
+</div>
 
 <!-- Featured Repositories -->
 #### Featured
