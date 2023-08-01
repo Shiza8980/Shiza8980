@@ -25,17 +25,17 @@
         <a href="https://github.com/Shiza8980?tab=repositories" target="_blank"><img alt="Python"
                         src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
         </a>
-        <!-- JavaScript -->
-        <a href="https://github.com/Shiza8980?tab=repositories" target="_blank"><img alt="JavaScript"
-                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
-        </a>
         <!-- Html -->
         <a href="https://github.com/Shiza8980?tab=repositories" target="_blank"><img alt="HTML 5"
-                        src="	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+                        src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
         </a>
         <!-- CSS -->
         <a href="https://github.com/Shiza8980?tab=repositories" target="_blank"><img alt="CSS"
                         src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        </a>
+        <!-- JavaScript -->
+        <a href="https://github.com/Shiza8980?tab=repositories" target="_blank"><img alt="JavaScript"
+                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
         </a>
 </p>
 
