@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!-- Title -->
 <h3 align="center">
