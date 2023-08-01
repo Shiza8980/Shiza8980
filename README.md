@@ -1,5 +1,10 @@
 <p style"background-image: url('space.jpg'); opacity: 0.3;">
+   
 <!-- Title -->
+<p align="center">
+<img src="https://shameem.b-cdn.net/wp-content/uploads/2021/09/software-Developer-Do.jpg" height=380px height:200px>
+</p>
+
 <h3 align="center">
         <samp> > Hey There!, I am
                 <b><a target="_blank" href="https://shiza8980.github.io/Website/">Shiza Usman</a></b>
