@@ -1,4 +1,4 @@
-<div style"background-image: url('space.jpg'); opacity: 0.3;">
+<p style"background-image: url('space.jpg'); opacity: 0.3;">
 <!-- Title -->
 <h3 align="center">
         <samp> > Hey There!, I am
@@ -69,7 +69,7 @@
         "Happy Coding👨‍💻"
     </p>
 </samp>
-</div>
+</p>
 
 <!-- Featured Repositories -->
 #### Featured
