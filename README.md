@@ -1,10 +1,4 @@
-<style>
-  div {
-    opacity: 0.3;
-    background-image: url('space.jpg');
-  }
-</style>
-<div>
+<div style"background-image: url('space.jpg'); opacity: 0.3;">
 <!-- Title -->
 <h3 align="center">
         <samp> > Hey There!, I am
